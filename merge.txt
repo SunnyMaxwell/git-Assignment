@@ -1,1 +1,2 @@
-Hi this is test file for merge conflict
+Hi this is test file for merge conflict - again updated from feature/merge-2
+added second line again in feature/merge2
